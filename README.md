@@ -15,7 +15,7 @@
     - Software development 
     - UX design
     - Cyber Security
-- 😄 Pronounce: mow-reh wah Che-geh
+- 😄 Pronounce: mow-ray wah Che-geh
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/antonymuriithi), [facebook](www.facebook.com/morehwachege),[Email]()
 
