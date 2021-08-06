@@ -17,7 +17,7 @@
     - Cyber Security
 - 😄 Pronounce: mow-ray wah Che-geh
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/antonymuriithi), [facebook](www.facebook.com/morehwachege),[Email]()
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/antonymuriithi), [facebook](https://facebook.com/morehwachege),[Email](antony123muriithi@gmail.com)
 
 <h3>🛠 Tech Stack</h3>
 
