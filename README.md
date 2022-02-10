@@ -1,4 +1,4 @@
-## I'm  ✨ [**_morehwachege_** ](www.facebook.com/morehwachege)✨ <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+## I'm  ✨ [**_Muriithi Gakuru_** ](www.facebook.com/morehwachege)✨ <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -21,7 +21,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | PHP   
+- 💻 &nbsp; Python | Dart | Java | C++ | PHP | gethalfmoon  
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Postgres
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Vim | Git
