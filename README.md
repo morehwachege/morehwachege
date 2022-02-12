@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Cyber sec , PHP and Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Cyber sec , PHP and intermediate level JavaScript with LuxDevHQ
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Information Technology.
 - 💼 &nbsp; Web and Android developer, back-end and front-end web developer.
