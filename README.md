@@ -17,7 +17,7 @@
     - Cyber Security
 - 😄 Pronounce: mow-ray wah Che-geh
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/antonymuriithi), [facebook](https://facebook.com/morehwachege),<a href="mailto:antony123muriithi@gmail.com">Email</a>
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/muriithigakuru), [facebook](https://facebook.com/morehwachege),<a href="mailto:antony123muriithi@gmail.com">Email</a>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -28,7 +28,11 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br>
-**Profile views**  <img src="https://img.shields.io/github/followers/morehwachege?label=Follow" style=" float:left, margin-right:10px" />
+<h3>Blogs</h3>
+ - [dev.to](https://dev.to/muriithigakuru/) <br>
+ - [Hashnode](https://muriithigakuru.hashnode.dev)
+<br>
+<h3>Followers</h3>  <img src="https://img.shields.io/github/followers/morehwachege?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
