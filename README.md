@@ -3,11 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Cyber sec , PHP and intermediate level JavaScript with LuxDevHQ
+- 🔭 &nbsp; I’m currently learning JavaScript
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Information Technology.
-- 💼 &nbsp; Web and Android developer, back-end and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Tech trends .
+- 💼 &nbsp; Web and developer, back-end and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber security and Tech trends .
 - ✍️ &nbsp; Watching Movies and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 - 💬 Ask me about 
@@ -15,14 +14,12 @@
     - Software development 
     - UX design
     - Cyber Security
-- 😄 Pronounce: mow-ray wah Che-geh
-- 😄 Pronouns: He/Him/His
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/muriithigakuru), [facebook](https://facebook.com/morehwachege),<a href="mailto:antony123muriithi@gmail.com">Email</a>
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | PHP | gethalfmoon  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Python | Java | C++ | PHP | gethalfmoon  
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Postgres
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Vim | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
