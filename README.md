@@ -3,31 +3,30 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning JavaScript
+- 🔭 &nbsp; I’m currently exploring JavaScript frameworks and libraries.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Web and developer, back-end and front-end web developer.
+- 💼 &nbsp; Full-stack web developer.
 - 🌱 &nbsp; Enthusiast in cyber security and Tech trends .
 - ✍️ &nbsp; Watching Movies and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-- 💬 Ask me about 
-    - Web development 
-    - Software development 
-    - UX design
-    - Cyber Security
+
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/muriithigakuru), [facebook](https://facebook.com/morehwachege),<a href="mailto:antony123muriithi@gmail.com">Email</a>
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | PHP | gethalfmoon  
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Python | Java | C++ | PHP
+- 🔭 &nbsp; React | Django | Node 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Postgres
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Vim | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🔧 &nbsp; PyCharm | Visual Studio code | Vim | Git
+- 🖥 &nbsp; Adobe Xd | Photoshop | OpenShot
 
 <br>
 <h3>Blogs</h3>
- - [dev.to](https://dev.to/muriithigakuru/) <br>
- - [Hashnode](https://muriithigakuru.hashnode.dev)
+
+  [Dev.to](https://dev.to/muriithigakuru/),
+  [Hashnode](https://muriithigakuru.hashnode.dev)
+  
 <br>
 <h3>Followers</h3>  <img src="https://img.shields.io/github/followers/morehwachege?label=Follow" style=" float:left, margin-right:10px" />
 
@@ -56,8 +55,6 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/django%20versions-1.11%20%7C%202.0%20%7C%202.1-blue">
-
-### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
