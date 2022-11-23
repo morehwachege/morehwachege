@@ -17,9 +17,10 @@ I'm so lazy that I automate everything. I love me bash & python for some quick j
 - 💻 &nbsp; Python | Java | C++ | Ruby | Rails
 - 🔭 &nbsp; React | Django | Node 
 - 🌐 &nbsp; JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Postgres
+- 🛢 &nbsp; SQL | Postgres
 - 🔧 &nbsp; PyCharm | Visual Studio code | Vim | Git
 - 🖥 &nbsp; Adobe Xd | Figma
+- 🌐 &nbsp; AWS | Google Cloud Platform
 
 <br>
 <h3>Blogs</h3>
