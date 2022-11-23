@@ -1,44 +1,38 @@
-## I'm  ✨ [**_Muriithi Gakuru_** ](www.facebook.com/morehwachege)✨ 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+## ✨ [**_HI_** ](www.twitter.com/muriithi_gakuru)✨ 
+<img align="right" alt="GIF" src="my.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently exploring JavaScript frameworks and libraries.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Full-stack web developer.
-- 🌱 &nbsp; Enthusiast in cyber security and Tech trends .
-- ✍️ &nbsp; Watching Movies and trying out latest design trends as hobbies/side hustles.
+I'm so lazy that I automate everything. I love me bash & python for some quick juice.
+- 🔭 &nbsp; I’m currently exploring JavaScript in depth.
+- 🤔 &nbsp; Ask me about 7 Days of Python/ Coding marathon.
+- 💼 &nbsp; Full-stack Engineer.
+- ✍️ &nbsp; Love thee pluto show.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/muriithigakuru), [facebook](https://facebook.com/morehwachege),<a href="mailto:antony123muriithi@gmail.com">Email</a>
+-   Cloud engineer loading  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/muriithigakuru), [twitter](https://twitter.com/muriithi_gakuru),<a href="mailto:antony123muriithi@gmail.com">Email</a>
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | PHP
+- 💻 &nbsp; Python | Java | C++ | Ruby | Rails
 - 🔭 &nbsp; React | Django | Node 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Postgres
 - 🔧 &nbsp; PyCharm | Visual Studio code | Vim | Git
-- 🖥 &nbsp; Adobe Xd | Photoshop | OpenShot
+- 🖥 &nbsp; Adobe Xd | Figma
 
 <br>
 <h3>Blogs</h3>
 
   [Dev.to](https://dev.to/muriithigakuru/),
   [Hashnode](https://muriithigakuru.hashnode.dev)
-  
-<br>
-<h3>Followers</h3>  <img src="https://img.shields.io/github/followers/morehwachege?label=Follow" style=" float:left, margin-right:10px" />
 
-
----
 
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
@@ -64,10 +58,6 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morehwachege&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/morehwachege/github-readme-stats)
-
-
-<h3> 🤝🏻 Connect with Me, the ✨ King Kahuna ✨</h3>
+<h3> 🤝🏻 Connect with ✨ Me ✨</h3>
 </br>
 <hr>
-Pull requests are always welcome. Fork my code and follow 
