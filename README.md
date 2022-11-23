@@ -4,9 +4,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 I'm so lazy that I automate everything. I love me bash & python for some quick juice.
-- 🔭 &nbsp; I’m currently exploring JavaScript in depth.
+- 🔭 &nbsp; I’m currently exploring Vanilla JavaScript in depth for UhuGrid.
 - 🤔 &nbsp; Ask me about 7 Days of Python/ Coding marathon.
-- 💼 &nbsp; Full-stack Engineer.
+- 💼 &nbsp; Full-stack Rails Engineer.
 - ✍️ &nbsp; Love thee pluto show.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 -   Cloud engineer loading  
