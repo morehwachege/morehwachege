@@ -8,7 +8,7 @@ I'm so lazy that I automate everything. I love me bash & python for some quick j
 - 🤔 &nbsp; Ask me about 7 Days of Python/ Coding marathon.
 - 💼 &nbsp; Full-stack Rails Engineer.
 - ✍️ &nbsp; Love thee pluto show.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 -   Cloud engineer loading  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/muriithigakuru), [twitter](https://twitter.com/muriithi_gakuru),<a href="mailto:antony123muriithi@gmail.com">Email</a>
 
