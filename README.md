@@ -65,3 +65,5 @@ I'm so lazy that I automate everything. I love me bash & python for some quick j
 <h3> 🤝🏻 Connect with ✨ Me ✨</h3>
 </br>
 <hr>
+
+![-](https://komarev.com/ghpvc/?username=morehwachege)
