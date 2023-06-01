@@ -23,9 +23,9 @@ I'm so lazy that I automate everything. I love me bash & python for some quick j
 - 🌐 &nbsp; AWS | Google Cloud Platform
 
 <br>
-<p align="center">
+<a href="https://www.codewars.com/users/muriithigakuru" align="start">
   <img src="https://www.codewars.com/users/muriithigakuru/badges/large" />
-</p>
+</a>
 <h3>Blogs</h3>
 
   [Dev.to](https://dev.to/muriithigakuru/),
