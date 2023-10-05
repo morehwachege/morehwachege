@@ -9,15 +9,15 @@ I'm so lazy that I automate everything. I love me bash & python for some quick j
 - 💼 &nbsp; Full-stack Rails Engineer.
 - ✍️ &nbsp; Love thee pluto show.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
--   Cloud engineer loading  
+-   Cloud engineer loading (Loaded! Wooohuuuuu)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/muriithigakuru), [twitter](https://twitter.com/muriithi_gakuru),<a href="mailto:antony123muriithi@gmail.com">Email</a>
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | Ruby | Rails
+- 💻 &nbsp; Python | Java | C++ | Ruby | Rails | JavaScript
 - 🔭 &nbsp; React | Django | Node 
 - 🌐 &nbsp; JavaScript | Bootstrap 
-- 🛢 &nbsp; SQL | Postgres
+- 🛢 &nbsp; SQL | Postgres | MongoDB
 - 🔧 &nbsp; PyCharm | Visual Studio code | Vim | Git
 - 🖥 &nbsp; Adobe Xd | Figma
 - 🌐 &nbsp; AWS | Google Cloud Platform
