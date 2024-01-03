@@ -81,6 +81,6 @@ I automate everything. I love me some bash & python for some quick juice.
 </br>
 <hr>
 
-![Alt text](image.png)
+![Alt text](banner.png)
 
 ![-](https://komarev.com/ghpvc/?username=morehwachege)
