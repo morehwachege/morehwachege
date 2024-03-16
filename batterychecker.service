@@ -1,0 +1,12 @@
+[Unit]
+Description=Check & alert when battery is below 30%
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=~/battery_alert.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
