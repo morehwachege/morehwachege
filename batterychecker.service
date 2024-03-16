@@ -4,7 +4,7 @@ After=network.target
 
 [Service]
 Type=simple
-ExecStart=~/battery_alert.sh
+ExecStart=/home/moreh/battery_alert.sh
 Restart=always
 
 [Install]
