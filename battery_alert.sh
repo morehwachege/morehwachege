@@ -3,7 +3,7 @@
 # alert me when my battery's low 30%
 
 base=30
-sleep_time= 300
+sleep_time=300
 
 while true; do
     
