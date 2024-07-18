@@ -10,7 +10,7 @@ I automate everything. I love me some bash & python for some quick juice.
 - 🔭 &nbsp; I’m currently exploring Vanilla JavaScript in depth for UhuGrid.
 - 🤔 &nbsp; Ask me about 7 Days of Python/ Coding marathon.
 - 💼 &nbsp; Full-stack Rails Engineer.
-- ✍️ &nbsp; Love thee pluto show.
+- ✍️ &nbsp; Playing guitar. I know! What a nerd/dweeb, am I right?😂😂 .
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 -   Cloud engineer loading (Loaded! Wooohuuuuu)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/muriithigakuru), [twitter](https://twitter.com/muriithi_gakuru),<a href="mailto:antony123muriithi@gmail.com">Email</a>
