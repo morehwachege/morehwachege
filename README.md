@@ -68,6 +68,10 @@ I automate everything. I love me some bash & python for some quick juice.
   <a href="https://app.daily.dev/muriithigakuru"><img src="https://api.daily.dev/devcards/2566777364ef4935bf7a30fda8d949d0.png?r=625" width="400" alt="Antony Gakuru's Dev Card"/></a>
 </p>
 
+## Other GitHub Accounts
+- [x] [morehaladin](https://github.com/morehaladin)
+
+- [x] [mildVenom](https://github.com/mildVenom)
 
 <h3> 🤝🏻 Connect with ✨ Me ✨</h3>
 </br>
