@@ -23,7 +23,7 @@ I automate everything. I love me some bash & python for some quick juice.
 - 🛢 &nbsp; SQL | Postgres | MongoDB
 - 🔧 &nbsp; PyCharm | Visual Studio code | Vim | Git
 - 🖥 &nbsp; Adobe Xd | Figma
-- 🌐 &nbsp; AWS | Google Cloud Platform
+- 🌐 &nbsp; AWS | Google Cloud Platform | Azure
 
 <br>
 <a href="https://www.codewars.com/users/muriithigakuru" align="start">
