@@ -71,11 +71,6 @@ I automate everything. I love me some bash & python for some quick juice.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=morehwachege&theme=tokyo-night)
 
-## Other GitHub Accounts
-- [x] [morehaladin](https://github.com/morehaladin)
-
-- [x] [mildVenom](https://github.com/mildVenom)
-
 <h3> 🤝🏻 Connect with ✨ Me ✨</h3>
 </br>
 <hr>
