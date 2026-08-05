@@ -65,9 +65,9 @@ I automate everything. I love me some bash & python for some quick juice.
 
 </br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://app.daily.dev/muriithigakuru"><img src="https://api.daily.dev/devcards/2566777364ef4935bf7a30fda8d949d0.png?r=625" width="400" alt="Antony Gakuru's Dev Card"/></a>
-</p>
+</p> -->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=morehwachege&theme=tokyo-night)
 
